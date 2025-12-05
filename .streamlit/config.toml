@@ -1,1 +1,12 @@
 
+[client]
+showErrorDetails = "none"
+
+[theme]
+primaryColor = "#ffa62b"
+backgroundColor = "#16697a"
+secondaryBackgroundColor = "#489fb5"
+textColor = "#ede7e3"
+font = "sans serif"
+accentColor = "#ede7e3"
+linkColor = "black"
